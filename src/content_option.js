@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I am a Software Developer and Data Scientist",
         second: "I code front-end and back-end for websites",
-        third: "I develop fun and interavtive mobile apps ",
+        third: "I develop fun and interactive mobile apps ",
     },
     description: "Welcome to my page I am a aspiring software developer",
     your_img_url: "https://i.ibb.co/m49b5cc/Screenshot-5.png",
